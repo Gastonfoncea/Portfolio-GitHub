@@ -26,8 +26,11 @@ It's my first app so it was a big challenge, at this moment I'm working on the O
 
 I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 23](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/72be4c3b-b648-435b-a8c9-faa02c05b61f)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 20](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/ea07f9f0-40a8-4abd-8304-eabc515be5f0)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 06](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/c2f2f3b9-1143-41f2-8e10-daf6154e0988)
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 23](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/f5f0ac06-6680-452e-a9fd-0c1f4cba93ce)     ![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 20](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/12d4a7ed-b227-497d-a89c-57b9135e864c)     ![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 06](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/ac60bf89-878e-480c-92b7-4165a7cca3ce)
+
 
 
 ### Tech Used
