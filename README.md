@@ -20,16 +20,14 @@ It's my first app so it was a big challenge, at this moment I'm working on the O
 * 🏢  MVVM
 
 
-
-
 ## Expenses Tracker
 
 I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 23](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/72be4c3b-b648-435b-a8c9-faa02c05b61f)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 20](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/ea07f9f0-40a8-4abd-8304-eabc515be5f0)
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 06](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/c2f2f3b9-1143-41f2-8e10-daf6154e0988)
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 23](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/b7d0a81c-d9d6-4716-bdf9-350e324e5ae9)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 20](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/7648d178-ed64-4d80-bb8c-b8b1f0e561ab)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-27 at 20 06](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/4694564b-562e-43ea-b666-5776942b268c)
 
 
 
