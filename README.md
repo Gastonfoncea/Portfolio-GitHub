@@ -23,8 +23,9 @@ It's my first app so it was a big challenge, at this moment I'm working on the O
 ## Mangos - Expenses Tracker
 
 I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
+![Frame 74](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/4a0c26de-5a16-46f3-a9e2-d1ba7a06d178)
 
-![Frame 73](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/770b7a6a-13a7-44bc-a401-f5804ca56cbe)
+
 
 
 
