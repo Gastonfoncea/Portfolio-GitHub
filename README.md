@@ -34,3 +34,4 @@ I created this application from scratch to control the monthly expenses, it is s
 * ⚡  SwiftData
 * 🎨  SwiftUI
 * 🏢  MVVM
+* 🌐  URLSESSION
