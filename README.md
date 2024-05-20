@@ -2,6 +2,39 @@ Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 =====================================================================================================================================
 
 
+## Mangos - Expenses Tracker
+
+I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
+![Frame 74](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/4a0c26de-5a16-46f3-a9e2-d1ba7a06d178)
+
+
+
+
+
+
+### Tech Used
+* ⚡  SwiftData
+* 🎨  SwiftUI
+* 🏢  MVVM
+* 🌐  URLSESSION
+
+
+
+## WEB SCRAP Mobile App
+
+I created from scratch an application that screens data from a web site about the value of the dollar currency in argentina, this allowed me to learn how to manage data from a web site at my convenience.
+
+
+![Dolarg Screens](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/70e33dd3-1647-46f4-8bf1-50ea8fc549c9)
+
+
+
+### Tech Used
+* 🎨  SwiftUI
+* 🌐  SwiftSoup
+* 📦  Swift Package Manager
+* 🏢  MVVM
+
 ## ONLY RM Mobile App
 
 I created from scratch an application to save gym exercises and their weights. From design to development, it is currently in testing phase in TestFlight.
@@ -18,20 +51,3 @@ It's my first app so it was a big challenge, at this moment I'm working on the O
 * 💿  Firebase sdk IOS
 * 📦  Swift Package Manager
 * 🏢  MVVM
-
-
-## Mangos - Expenses Tracker
-
-I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
-![Frame 74](https://github.com/Gastonfoncea/Portfolio-GitHub/assets/57188392/4a0c26de-5a16-46f3-a9e2-d1ba7a06d178)
-
-
-
-
-
-
-### Tech Used
-* ⚡  SwiftData
-* 🎨  SwiftUI
-* 🏢  MVVM
-* 🌐  URLSESSION
