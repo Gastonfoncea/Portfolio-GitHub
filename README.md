@@ -2,6 +2,23 @@ Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 =====================================================================================================================================
 
 
+## Stepa - Available on AppStore - Steps,Calories and Kilometers counter
+
+I created this application from design to development in swiftUI, tested it with TestFlight and uploaded it to the Appstore.
+
+![Stepa](https://github.com/user-attachments/assets/6994835a-bb34-4e19-90e3-152ecadeb387)
+
+
+### Tech Used
+* 🎨  SwiftUI
+* 🏢  MVVM
+* 🌐  URLSESSION
+* ✔  Unit Testing
+* ❤  HealthKit
+* ⚡ User Defaults
+
+
+
 ## Mangos - Expenses Tracker
 
 I created this application from scratch to control the monthly expenses, it is still in development stage, where the idea is to add firebase to be able to log in.
